@@ -1,0 +1,2 @@
+solution = 'Der Dateiname entspricht dem Zeitpunkt der Messung. Der Dateiname 2004.02.12.10.32.39 bedeutet, dass die Messung am 12. Februar 2004 um 10:32 Uhr und 39 Sekunden stattgefunden hat.'''
+print(solution)

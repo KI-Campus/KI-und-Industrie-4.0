@@ -1,0 +1,2 @@
+solution='Mit einer Lernrate von 0.2, einer Batch size von 20 und einem Training über 400 Epochen wurde für die Musterlösung ein mittlerer absoluter Fehler von 33.9 auf dem Validierungsdatensatz erzielt.'
+print(solution)

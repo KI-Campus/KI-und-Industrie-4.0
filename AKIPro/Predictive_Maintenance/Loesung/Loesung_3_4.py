@@ -1,0 +1,2 @@
+solution = 'Gegen Ende messen alle Sensoren eine stärkere Vibration als zu Beginn. Insbesondere für Kugellager Nr. 1 werden gegen Ende um ein vielfaches höhere Beschleunigungen gemessen, als zu Beginn und im Frequenzspektrum sind verstärkt höhere Frequenzen präsent. Die Messreihe endet mit dem Bruch von Kugellager Nr. 1.'
+print(solution)
