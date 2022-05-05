@@ -1,0 +1,2 @@
+solution = str('Die Pixelwerte werden normalisiert, d. h. sie werden von Werten zwischen 0 und 255 auf Werte zwischen 0 und 1 skaliert. Für das Training von neuronalen Netzen sollten die Eingabewerte im Allgemeinen klein sein (Faustregel zwischen 0 und 1) und sich in der gleichen Größenordnung bewegen. Sind die Wertebereiche der Eingabedaten sehr unterschiedlich oder enthalten die Eingabedaten sehr große Werte, hat dies in der Regel einen negativen Einfluss auf das Training und die Performance des Netzes.') 
+print(solution)

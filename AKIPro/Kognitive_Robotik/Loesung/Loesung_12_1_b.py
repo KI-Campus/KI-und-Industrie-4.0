@@ -1,0 +1,2 @@
+solution = str('Beim Blick in den Ordner mit den realen Bilddaten wird klar, dass die ersten Bilder alle Aufnahmen von Schlüsseln zeigen, danach kommen Aufnahmen von Schraubenziehern und die letzten Bilder zeigen alle Zangen. Wird der Datensatz vor der Aufteilung in Trainings- und Testdaten nicht durchmischt, enthält der Trainingsdatensatz alle Bilder von Schlüsseln und Schraubenziehern, während der Testdatensatz ausschließlich Bilder von Zangen enthält, was wenig sinnvoll ist.') 
+print(solution)

@@ -1,0 +1,3 @@
+solution = str('Die Bilder werden als 4D-Matrix der Form (Anzahl Bilder, Bildbreite in Pixel, Bildhöhe in Pixel, Farbkanäle (RGB)) gespeichert. Die zugehörigen Bounding Boxen werden als 2D-Matrix der Form (Anzahl Bilder, Anzahl Werte Bounding Box) gespeichert, wobei die Bounding Boxen durch 4 Werte, die Koordinaten der linken oberen Ecke und der rechten unteren Ecke angegeben werden. Die zugehörigen Klassen werden als 2D-Matrix der Form (Anzahl Bilder, Anzahl Klassen) gespeichert. Für die Angabe der Klassen wird hier One-hot-Encoding verwendet. Für weitere Erklärungen zu den Labels sei auf das Kursmodul "Objekterkennung mit tiefen neuronalen Netzen" verwiesen.')
+
+print(solution)
