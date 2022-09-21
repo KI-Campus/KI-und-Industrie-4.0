@@ -1,4 +1,4 @@
-name: python-akipro_env
+name: akipro
 channels:
   - defaults
 dependencies:
